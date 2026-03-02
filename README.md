@@ -1,5 +1,10 @@
 # Industrial_Anomaly_Detection
 
+## Surveys and Reviews 
+* **Deep Industrial Image Anomaly Detection: A Survey**,
+  Jiaqi Liu, Guoyang Xie, Jinbao Wang, Shangnian Li, Chengjie Wang, Feng Zheng & Yaochu Jin
+  [[Paper](https://link.springer.com/article/10.1007/s11633-023-1459-z)]  
+
 
 **RobustAD**, Wenbing Zhu; Lidong Wang; Ziqing Zhou; Chengjie Wang; Yurui Pan; Ruoyi Zhang, CVPR 2025 Workshops [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Pemula_Robust_AD_A_Real_World_Benchmark_Dataset_For_Robustness_in_CVPRW_2025_paper.html)][[Code](https://huggingface.co/datasets/AmazonScience/RobustAD)]
 
