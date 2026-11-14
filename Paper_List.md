@@ -9,6 +9,11 @@
 
 
 
+* arXiv:2607.09114 [cs.CV] **Event Stream based Multi-Modal Video Anomaly Detection: A Benchmark Dataset and Algorithms**,
+  Peipei Zhu, Yueqing Niu, Lin Zhu, Guanchong Niu, Yang Yu, Zheng Li
+  [[Paper](https://arxiv.org/abs/2607.09114)] 
+
+
 * **RobustAD**, Wenbing Zhu; Lidong Wang; Ziqing Zhou; Chengjie Wang; Yurui Pan; Ruoyi Zhang, CVPR 2025 Workshops [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Pemula_Robust_AD_A_Real_World_Benchmark_Dataset_For_Robustness_in_CVPRW_2025_paper.html)][[Code](https://huggingface.co/datasets/AmazonScience/RobustAD)]
 
 * **Real-IAD D3**, Wenbing Zhu; Lidong Wang; Ziqing Zhou; Chengjie Wang; Yurui Pan; Ruoyi Zhang, CVPR 2025 [[Paper](https://ieeexplore.ieee.org/document/11093434)][[Code](https://realiad4ad.github.io/Real-IAD_D3)]
